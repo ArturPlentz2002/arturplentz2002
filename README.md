@@ -110,10 +110,9 @@ Minha transição da área da saúde para a tecnologia me proporcionou uma persp
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturplentz2002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturplentz2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=ArturPlentz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArturPlentz&theme=tokyonight&hide_border=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturPlentz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)<br>
 
 
 ---
