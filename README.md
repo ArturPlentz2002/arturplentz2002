@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Full Stack & DevOps
 
-Desenvolvedor Full Stack e DevOps cursando o 4º semestre de **Engenharia de Software na PUCRS**. Sou apaixonado por construir soluções completas de ponta a ponta e otimizar processos, unindo o desenvolvimento de software a conhecimentos de infraestrutura em nuvens como **AWS** e **Azure** para criar aplicações robustas e escaláveis.
+Desenvolvedor Full Stack e DevOps cursando o 6º semestre de **Engenharia de Software na PUCRS**. Sou apaixonado por construir soluções completas de ponta a ponta e otimizar processos, unindo o desenvolvimento de software a conhecimentos de infraestrutura em nuvens como **AWS** e **Azure** para criar aplicações robustas e escaláveis.
 
 Minha transição da área da saúde para a tecnologia me proporcionou uma perspectiva única sobre resolução de problemas e resiliência, habilidades que aplico diariamente no desenvolvimento de software.
 
